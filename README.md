@@ -10,7 +10,7 @@ The project does two things:
 
 The project is made on linux based UBUNTU OS.
 
-Compile the program as follows
+Compile the program as follows:
 ```
 gcc -o main main.c 
 ```
