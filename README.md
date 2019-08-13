@@ -14,4 +14,4 @@ Compile the program as follows:
 ```
 gcc -o main main.c 
 ```
-For usage details please go through the full report provided in the repository.
+**For usage details please go through the full report provided in the repository.**
